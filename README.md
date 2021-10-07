@@ -1,1 +1,1 @@
-Simple game i made in Uniyt using the RollaBall tutorial
+Simple game i made in Unity using the RollaBall tutorial
